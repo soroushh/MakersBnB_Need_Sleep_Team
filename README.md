@@ -17,7 +17,21 @@ After that, follow the steps in the following directory to create the databases 
 
 After that, run the following command in your terminal.
 
-``` rackup -p 1234 ````
+``` rackup -p 1234 ```
 
 then, you can open your browser and run the application in the url:
 ``` localhost:1234```
+
+The technologies:
+
+The following technologies are used to create the application:
+
+Ruby
+
+Sinatra
+
+ActiveRecord
+
+Rspec as test framework
+
+Capybara as test framework
